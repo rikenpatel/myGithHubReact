@@ -7,15 +7,22 @@ Fetch user and repo information from GitHub
 
 # package.json
  cmd
+ 
  cd projectFolder
+ 
  npm install webpack -g
+ 
  npm install webpack-dev-server -g
+ 
  npm init (setting up package.json)
+ 
  add devDependencies in package.json
+ 
   -babel-core 5.8.*
   -babel-loader 5.3.*
   -webpack 1.12.*
 add dependencies
+
   -react ^0.14.7
   -react-dom ^0.14.7
   
